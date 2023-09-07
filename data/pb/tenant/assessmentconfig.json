@@ -2650,16 +2650,28 @@
     },
     {
       "tenant": "pb.malout",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
     },
     {
       "tenant": "pb.amritsar",
-      "enabled": true,
+      "enabled": false,
       "financialyear": "2023-24",
       "isRented": true
 
+    },
+    {
+      "tenant": "pb.dharamkot",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
+    },
+    {
+      "tenant": "pb.nurmahal",
+      "enabled": true,
+      "financialyear": "2023-24",
+      "isRented": true
     }
     
   ]
